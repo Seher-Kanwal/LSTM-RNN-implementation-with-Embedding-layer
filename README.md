@@ -18,3 +18,6 @@ Embedding layer enables us to convert each word into a fixed length vector of de
 # Conclusion
 Embeddings are a great way to deal with NLP problems because of two reasons. First it helps in dimensionality reduction over one-hot encoding as we can control the number of features. Second it is capable of understanding the context of a word so that similar words have similar embeddings. 
 
+
+# LSTM-RNN:
+LSTM networks are an extension of recurrent neural networks (RNNs) mainly introduced to handle situations where RNNs fail. 
